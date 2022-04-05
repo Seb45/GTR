@@ -1,0 +1,29 @@
+Split/Skill:	CTROL_ATE_COM_69
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+3	AteCh_COM_Dauria_Mar	86299	8980		ACDIN	5	336	Transfer_a_COM	NA
+7	AteTuc_COM_Carrazan_	88587	4893		OTHER	0	55		NA
+3	AteCH_COM_Montiel_Lu	86179	8503		ACDIN	5	199	Transfer_a_COM	NA
+7	AteCh_COM_Enrique_V	86414	8897		OTHER	0	53		NA
+3	AteTuc_COM_Madrid_An	88641	8593		ACDIN	1	14	IVR_COM_se_5_bajo_su	NA
+5	AteCh_COM_Aquino_B	86106	8984	Toillete	AUX	0	5		NA
+3	AteTuc_COM_Quiroga_B	86165	8808		ACDIN	1	103	IVR_COM_se_6_bajo_in	NA
+3	AteCH_COM_Muzzio_Roc	86169	8569		ACDIN	1	88	IVR_COM_se_8_como_ba	NA
+5	AteTuc_COM_Lucena Je	88685	8805	Soporte Teams	AUX	0	1046		NA
+3	AteCH_COM_Zalazar_Ge	86401	8580		ACDIN	1	323	IVR_COM_se_8_como_ba	NA
+3	AteTuc_COM_M_Rodrigu	88689	8872		ACDIN	1	69	IVR_COM_se_6_bajo_in	NA
+3	AteCH_COM_Achucarro_	86402	8981		ACDIN	1	30	IVR_COM_se_5_bajo_su	NA
+7	AteTuc_COM_Del_Pino_	88642	8989		OTHER	0	104		NA
+5	AteCh_COM_Lopez_Fran	86126	8492	Soporte Teams	AUX	0	984		NA
+2	AteTuc_COM_Kasem_Ter	88554	8806		AVAIL	0	1		NA
+3	AteCh_COM_Jaime_Mic	86159	8974		ACDIN	1	135	IVR_COM_se_8_como_ba	NA
+3	AteTuc_COM_Ruiz_Jose	86096	8595		ACDIN	1	40	IVR_COM_se_5_bajo_su	NA
+4	AteTuc_COM_Maidana P	88634	5677		ACW	1	3	IVR_COM_se_8_como_ba	NA
+3	AteTuc_COM_Paz Exequ	88626	8536		ACDIN	1	73	IVR_COM_se_6_bajo_in	NA
+3	AteCH_COM_Veron_Elia	86288	8983		ACDIN	1	139	IVR_COM_seg_3_vip_al	NA
+3	AteCh_COM_Castillo_C	86298	8577		ACDIN	1	41	IVR_COM_segm_4_medio	NA
+3	AteCh_COM_Martinez_D	86119	8510		ACDIN	1	303	IVR_COM_se_6_bajo_in	NA
+3	AteCH_COM_Ruiz_Brend	86422	8507		ACDIN	1	918	IVR_COM_seg_3_vip_al	NA
+5	AteCH_COM_Hoyos_Bele	86413	8993	Soporte Teams	AUX	0	1219		NA
+7	AteCh_COM_Vera_Shirl	86130	8511		OTHER	0	86		NA
+3	AteCH_COM_Roman_Cesa	88814	8890		ACDIN	5	186	Transfer_a_COM	NA
+3	AteCh_COM_Brabo_Ale	86147	8508		ACDIN	1	269	in_preTMK_a_COM	NA

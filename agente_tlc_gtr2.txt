@@ -1,0 +1,14 @@
+Split/Skill:	CTROL_ATE_SAC_71
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+3	Ate_SAC_Alcaide_Mari	86905	8524		ACDIN	3	248	Transfer_a_SAC	NA
+3	Ate_SAC_Guardia_Ana	86091	8832		ACDIN	3	239	Transfer_a_SAC	NA
+2	Ate_SAC_Martinez_Pat	86871	8973		AVAIL	0	198		NA
+2	Ate_SAC_Salvatierra_	86869	8525		AVAIL	0	190		NA
+3	Ate_SAC_Fernandez_Al	86066	8533		ACDIN	3	116	Transfer_a_SAC	NA
+2	Ate_SAC_Martinez_Gri	86073	8798		AVAIL	0	107		NA
+3	AteTuc_SAC_Santillan	88561	8922		ACDIN	3	439	Transfer_a_SAC	NA
+5	Ate_SAC_Benitez_Evan	86885	8792	Toillete	AUX	0	28		NA
+7	Ate_SAC_Mariani Cami	86033	8831		OTHER	0	162		NA
+7	AteTuc_SAC_Masucci F	88633	8504		OTHER	0	18		NA
+3	Ate_SAC_Moreno_Soled	86078	8900		ACDIN	3	85	Transfer_a_SAC	NA
+3	Ate_SAC_Caceres_Paul	86001	8521		ACDIN	3	13	Transfer_a_SAC	NA

@@ -1,0 +1,58 @@
+Split/Skill:	ATENTO WFM
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+2	Nava, Eugenia Raquel	44389	51589		AVAIL	0	35787		NA
+5	De la Torre, Maria C	42545	40008	AUX BREAK	AUX	0	34161		NA
+2	Alaniz,Claudia Elisa	44252	51120		AVAIL	0	155		NA
+2	Leston, Vanesa Carla	42264	51057		AVAIL	0	22418		NA
+5	Flores, Nadia Rocio	44286	51238	AUX BAÑO	AUX	0	85		NA
+5	VISCIGLIA TERESITA I	46835	51240	AUX BAÑO	AUX	0	494		NA
+2	Rodriguez Micaela So	42479	51756		AVAIL	0	438		NA
+2	Verdera,Damian Matia	40513	51552		AVAIL	0	9537		NA
+5	Alvarez Luciano	44622	51042	AUX BREAK	AUX	0	712		NA
+5	Anastasio, Emmanuel	43455	40597	AUX BACKOFF	AUX	0	2285		NA
+2	Tevez Elias Ezequie	42321	51502		AVAIL	0	2662		NA
+2	Gamarra Mara Elizab	43555	40573		AVAIL	0	18689		NA
+2	Suarez, Mauro Gabrie	45391	51173		AVAIL	0	586		NA
+2	Lafuente,German Arie	42788	53353		AVAIL	0	154		NA
+2	Da Lomba Novo,Nadia	44259	40579		AVAIL	0	2085		NA
+2	Pinillos Quiroz, Shi	42744	51172		AVAIL	0	229		NA
+2	Meliendres Maria Lau	46549	51131		AVAIL	0	7605		NA
+2	Guillen A, Joscelino	44917	40580		AVAIL	0	1081		NA
+2	Torres Alejandra Den	42359	52312		AVAIL	0	301		NA
+5	ANGULO NOELIA MARIA	44511	52323	AUX BREAK	AUX	0	575		NA
+3	Perez E, Cleomar	45158	51634		ACDIN	347	212	47256	NA
+2	Martin, Sonia	46565	52075		AVAIL	0	351		NA
+2	Agüero,Romina Isabel	44840	40616		AVAIL	0	1124		NA
+2	Cabrera,Alicia Lucia	44229	51126		AVAIL	0	15026		NA
+5	Sanabria, Christian	44729	54912	AUX CAPACITACION	AUX	0	1532		NA
+2	Acosta Maria	43909	51179		AVAIL	0	1936		NA
+2	Blumberg Lorena Manu	42056	40567		AVAIL	0	18286		NA
+2	Delgado, MariadelosA	46652	40625		AVAIL	0	18092		NA
+2	Jara, Bernardino Ale	46468	51632		AVAIL	0	17793		NA
+5	Godoy,Cristian Aleja	42789	53349	AUX BREAK	AUX	0	793		NA
+2	Soldatti,Silvia Adri	44236	41411		AVAIL	0	15321		NA
+2	Torres, Estefany	43224	41216		AVAIL	0	11816		NA
+2	Maldonado, Ramiro Ju	44433	41406		AVAIL	0	735		NA
+3	43742	43742	53352		ACDIN	117	121	1262	NA
+2	Rossi Eugenia	45500	53815		AVAIL	0	15322		NA
+2	González Mariela F	44993	52313		AVAIL	0	3069		NA
+5	Torres, Erick Daniel	42373	53788	AUX BACKOFF	AUX	0	15189		NA
+2	Romero, Romina Julia	44078	54561		AVAIL	0	490		NA
+3	Gonzalez, , Jesica P	42554	52081		ACDIN	581	232	47196	NA
+2	Pérez, Marcelo	45529	51685		AVAIL	0	151		NA
+2	Molina, Tamara Soled	46853	53336		AVAIL	0	8854		NA
+2	Macchioni Tejerina E	42063	51174		AVAIL	0	2058		NA
+2	Diaz Claudia Ines	45381	51150		AVAIL	0	88		NA
+2	Miguel Nicolás Fabio	46913	51629		AVAIL	0	332		NA
+2	Dominguez, Nelson Ja	46649	51619		AVAIL	0	817		NA
+2	Sola, Carlos Andres	43797	40577		AVAIL	0	9039		NA
+2	Sanchez Guadalupe R	46695	52329		AVAIL	0	171		NA
+2	Rodriguez , Mariano	42556	52078		AVAIL	0	155		NA
+2	Zalazar, Veronica Cr	42552	52079		AVAIL	0	566		NA
+2	Leguizamon, Mauro E	42213	51637		AVAIL	0	34		NA
+2	Montero Cristian	43871	51040		AVAIL	0	1031		NA
+2	Martinez Sofia Crist	46484	51680		AVAIL	0	773		NA
+2	Rubiolo Alejandro D	46696	40615		AVAIL	0	1692		NA
+2	Yerba, Maria De Los	45339	40570		AVAIL	0	3083		NA
+2	Silva Best Rebeca Al	43839	51180		AVAIL	0	2287		NA
+3	Garcia Florencia Mag	45255	53368		ACDIN	514	26	47227	NA

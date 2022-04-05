@@ -1,0 +1,8 @@
+Split/Skill:	Fact AT Bce CSV
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+3	S1_Romero Cintia Lo	55688	58114		ACDIN	63	123	661203	NA
+2	S3AD_Dorado Cintia	55938	55507		AVAIL	0	503		NA
+3	S2D_Jerez Lucas Nah	55115	55570		ACDIN	74	909	6487	NA
+3	S1_Reyes Villanueva	55159	55567		ACDIN	379	55	6479	NA
+5	S1_Calonga Paola Ce	55094	55579	Refrigerio	AUX	0	48		NA
+2	S3_Figueredo Cristi	56370	55589		AVAIL	0	275		NA

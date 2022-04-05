@@ -1,0 +1,47 @@
+Split/Skill:	CTROL_ATE_TEC_70
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+2	AteTuc_TEC_Scistri_C	86266	4278		AVAIL	0	16		NA
+5	AteTuc_MS_TEC_Gomez_	86667	8912	Soporte Teams	AUX	0	2762		NA
+2	Ate_TEC_Santillan_Se	86210	5757		AVAIL	0	310		NA
+3	AteTuc_TEC_Romano_Ma	86644	4282		ACDIN	2	12	IVR_TEC_segm_4_medio	NA
+2	AteTuc_TEC_Ruiz_Gust	86324	4895		AVAIL	0	297		NA
+2	AteTuc_MS_TEC_Allend	86605	4289		AVAIL	0	26		NA
+2	AteTuc_TEC_Rama_Jose	86543	4279		AVAIL	0	253		NA
+3	AteTuc_TEC_Luna_Carl	86604	4291		ACDIN	2	603	IVR_TEC_segm_4_medio	NA
+2	AteTuc_TEC_Carrizo_M	86519	8935		AVAIL	0	30		NA
+3	AteTuc_MS_TEC_Casimi	86606	4272		ACDIN	2	93	IVR_TEC_seg_3_vip_al	NA
+3	Ate_MS_TEC_Lopez_Mat	86232	8512		ACDIN	6	741	Transfer_a_TEC	NA
+3	Ate_MS_TEC_Reyes_Loa	86254	8566		ACDIN	2	478	IVR_TEC_se_5_bajo_su	NA
+3	Ate_TEC_Torres_Leona	86250	8928		ACDIN	2	406	IVR_TEC_se_5_bajo_su	NA
+2	Ate_MS_TEC_Navarro_M	86157	8887		AVAIL	0	313		NA
+2	Ate_TEC_Faverio_Laut	86252	8564		AVAIL	0	284		NA
+2	AteTuc_TEC_Suarez_Ro	86664	5641		AVAIL	0	210		NA
+2	Ate_MS_TEC_Caceres_A	86878	8967		AVAIL	0	41		NA
+2	AteTuc_TEC_Burgos_Ma	86598	4292		AVAIL	0	230		NA
+3	Ate_TEC_Velardez_Mat	86910	8920		ACDIN	2	122	IVR_TEC_segm_4_medio	NA
+2	AteTuc_TEC_Rivero_Ga	86607	4271		AVAIL	0	210		NA
+3	AteTuc_MS_TEC_Fernan	88837	4270		ACDIN	2	203	IVR_TEC_seg_3_vip_al	NA
+2	Ate_TEC_Kamiski_Vlad	86205	5698		AVAIL	0	216		NA
+2	AteTuc_TEC_Moreno_Al	86613	8886		AVAIL	0	102		NA
+5	AteTuc_MS_TEC_Montiv	86687	4896	Break	AUX	0	991		NA
+3	AteTuc_TEC_Aguilera_	86600	8513		ACDIN	2	355	IVR_TEC_se_6_bajo_in	NA
+5	AteTuc_MS_TEC_Haro_L	86247	4293	Soporte Teams	AUX	0	3005		NA
+2	AteTuc_TEC_Fraszczak	86612	8884		AVAIL	0	57		NA
+2	AteTuc_TEC_Galvan_Lu	86642	8596		AVAIL	0	86		NA
+3	AteTuc_TEC_Luis_Fran	86646	4275		ACDIN	2	83	IVR_TEC_se_6_bajo_in	NA
+5	Ate_TEC_ Zunino_Juli	86258	8795	Break	AUX	0	1156		NA
+3	AteTuc_TEC_Amaya_Gis	86517	4295		ACDIN	2	148	IVR_TEC_se_6_bajo_in	NA
+5	Ate_TEC_Saavedra_Mil	86272	5637	Break	AUX	0	1121		NA
+3	AteTuc_TEC_Gutierrez	86684	8883		ACDIN	2	477	IVR_TEC_seg_3_vip_al	NA
+2	AteTuc_TEC_Lewis_Cat	86516	8965		AVAIL	0	75		NA
+3	Ate_TEC_Marquett_Lei	86229	8924		ACDIN	2	248	IVR_TEC_se_6_bajo_in	NA
+3	Ate_TEC_Slawycz_Pabl	86236	5686		ACDIN	2	847	IVR_TEC_se_5_bajo_su	NA
+5	AteTuc_MS_TEC_Martin	86031	5643	Break	AUX	0	992		NA
+3	Ate_TEC_Pojomovsky_J	86338	5679		ACDIN	2	158	IVR_TEC_se_5_bajo_su	NA
+2	AteTuc_TEC_Diaz_Maur	86672	4900		AVAIL	0	6		NA
+2	AteTuc_TEC_Adee_Ange	86657	8923		AVAIL	0	262		NA
+2	AteTuc_TEC_Rivas_Pat	86639	4277		AVAIL	0	22		NA
+3	AteTuc_MS_TEC_Alvara	86611	8945		ACDIN	2	482	IVR_TEC_seg_3_vip_al	NA
+3	Ate_TEC_Alderete_Ema	86384	5667		ACDIN	2	214	IVR_TEC_seg_3_vip_al	NA
+3	Ate_TEC_Mendez_Juan	86226	5699		ACDIN	2	92	IVR_TEC_se_5_bajo_su	NA
+3	AteTuc_TEC_Ale_Paula	88675	8972		ACDIN	2	468	IVR_TEC_seg_3_vip_al	NA

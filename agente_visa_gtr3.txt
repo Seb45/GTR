@@ -1,0 +1,22 @@
+Split/Skill:	Fact ATMart.TLMK
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+5	AT_Antivero Cyndi	56937	58125	Conexión	AUXIN	414	86		NA
+2	AT_Schmit Micaela	57304	56551		AVAIL	0	249		NA
+5	AT_Lapalma Camila	57589	56555	BackOffice	AUX	0	513		NA
+5	AT_Gomez Luz Aylen	57602	58132	Toilette	AUX	0	452		NA
+5	AT_Arceo Debora Day	55428	56531	Conexión	AUXIN	417	6826		NA
+5	AT_Sili Celeste Flor	55226	58126	BackOffice	AUX	0	302		NA
+5	AT_Alarcon  Lorena	615026	56550	Conexión	AUXIN	417	2519		NA
+3	AT_Godoy Lopez Maris	615010	56534		ACDIN	90	386	Hab Patag Gold TLMK	NA
+2	AT_Martinez Valero E	615013	56636		AVAIL	0	37		NA
+3	AT_Goytia Rodrigo He	57616	56542		ACDIN	90	7	Hab Patag Clas TLMK	NA
+2	AT_Dommarco Agostina	57848	56660		AVAIL	0	286		NA
+5	AT_Maturano Maria Jo	56205	56241	Toilette	AUX	0	208		NA
+5	AT_Prieto Diana Noel	58574	56736	Conexión	AUXIN	417	273		NA
+3	AT_Barrozo González	58949	56501		ACDIN	230	183	67109	NA
+5	AT_Cordoba Alfredo R	615953	56568	Refrigerio	AUX	0	556		NA
+3	AT_Contin Milagros	615017	56576		ACDIN	230	481	67109	NA
+2	AT_Mayer M Florencia	55446	56635		AVAIL	0	21		NA
+5	AT_Glasman Sebastian	58420	56797	Devo Grupal	AUX	0	454		NA
+5	AT_ISAGUIRRE ARIANA	55884	56558	Conexión	AUXIN	417	132		NA
+2	AT_Barrenechea Maria	58595	56644		AVAIL	0	95		NA

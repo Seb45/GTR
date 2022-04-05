@@ -1,0 +1,24 @@
+Split/Skill:	Fact AT Salta CSV
+	Nombre del agente	Identif. de conexión	Extn	Motivo AUX	Estado	Split/Skill	Tiempo	Nombre de VDN	Estado de interrupción
+2	S1_Altamirano Paula	616448	58101		AVAIL	0	46		NA
+5	D_Farfan Maira	69369	55503	Refrigerio	AUX	0	1685		NA
+2	S1_Cardozo Mauro Fa	618580	58484		AVAIL	0	4		NA
+5	S1_Gomez Axel Arnal	616452	55584	Toilette	AUX	0	772		NA
+3	D_Ahumada Aguirre M	616442	58271		ACDIN	13	100	Nativa a Denuncias	NA
+3	D_Vallejos Agustina	69364	58524		ACDIN	13	301	Den c/DNI	NA
+5	D_Valle Mariano	69404	58269	Refrigerio	AUX	0	1645		NA
+2	S1_Bono Paez Nancy	618576	58470		AVAIL	0	174		NA
+3	D_Herrera Amadeo	69414	58464		ACDIN	13	245	Tr.Int.Denuncias	NA
+3	D_Lopez Florencia	69039	663492		ACDIN	13	113	Tr.Int.Denuncias	NA
+3	CRB_Santos Maria Vi	58415	56597		ACDIN	132	216	CRIP OkVisa CompRef	NA
+3	S1_Campos Dante Abr	616450	58228		ACDIN	132	1	CRIP OkVisa CompRef	NA
+3	S1D_Salas Aaron Jul	618563	58467		ACDIN	132	87	Cr sin ip transf	NA
+2	S1D_Parraga Claudia	618569	58491		AVAIL	0	176		NA
+3	D_Peñaranda Noelia	616443	58226		ACDIN	13	1	Tr.Int.Denuncias	NA
+3	D_Caraballo Alejand	69372	58223		ACDIN	13	149	Den c/DNI	NA
+2	D_Pardo Marquiegui	616446	58313		AVAIL	0	34		NA
+2	S1_Alday Rodrigo Ma	58432	58465		AVAIL	0	7551		NA
+3	S1D_Nieva Lucas Mau	618574	56801		ACDIN	13	178	Stder a Denun Visa	NA
+3	S1_Rivera Ana Elisa	618561	58488		ACDIN	132	73	CRIP Nook VisaComp R	NA
+3	Mamani, Ana Daniela	618511	55538		ACDIN	13	395	Tr.Int.Denuncias	NA
+2	D_Hernandez Micaela	616440	58282		AVAIL	0	47		NA
